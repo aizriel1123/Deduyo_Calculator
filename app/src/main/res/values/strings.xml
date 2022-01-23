@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Deduyo_Calculator</string>
+    <string name="divide">/</string>
+    <string name="plus">+</string>
+    <string name="multiply">x</string>
+    <string name="minus">-</string>
+    <string name="equal">=</string>
+    <string name="the_result_is">The Result is</string>
+    <string name="answer">Answer</string>
+    <string name="first_variable">First Variable</string>
+    <string name="second_variable">Second Variable</string>
+</resources>
